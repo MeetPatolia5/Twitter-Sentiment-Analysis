@@ -1,0 +1,12 @@
+https://meetpatolia1947.wixsite.com/mysite
+tweet sentiment analytics
+
+Access token: 720216149254778881-JWhJPK64a4jhzYSxp1SifGk3tC9CDv7
+
+Access token secret: QxA96P1qz71A7Ja04xp5rnYo345qMqz6mklDShVhHS7mE
+
+API key:
+LQtCBIzDraEx3NNuCWML2gNLG
+
+API secret key:
+aN4r1TIra9llRU5OCcC5PTbfbfHXlKhDmqzfqsRE7QwDJ1JBNy
